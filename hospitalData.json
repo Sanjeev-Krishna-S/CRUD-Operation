@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Daya Hospital",
+    "patientCount": 150,
+    "location": "Thrissur"
+  },
+  {
+    "name": "Jubilee Mission",
+    "patientCount": 100,
+    "location": "Thrissur"
+  },
+  {
+    "name": "Amritha",
+    "patientCount": 10850,
+    "location": "Ernakulam"
+  },
+  {
+    "name": "ASTER MIMS",
+    "patientCount": 270550,
+    "location": "Kannur"
+  },
+  {
+    "name": "Ananthapuri",
+    "patientCount": 56450,
+    "location": "Thampanoor"
+  },
+  {
+    "name": "GOKULAM",
+    "patientCount": 14620,
+    "location": "TVM"
+  },
+  {
+    "name": "KIMS",
+    "patientCount": 10051,
+    "location": "THIRUVANANTHAPURAM"
+  }
+]
